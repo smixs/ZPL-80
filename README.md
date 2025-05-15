@@ -103,6 +103,8 @@ A:
 | **Unbounded thoughts** | Model rambles 500 tokens | Token guard | `Thought(TH<=128):🧠` |
 | **No token report** | Risk overflow | `⌛` flag | append `⌛` |
 
+```
+
 ## Compression Tactics
 
 1. **Alias anything ≥3 repeats**
