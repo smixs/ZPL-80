@@ -1,5 +1,7 @@
 **ZPL-80 – Zip Prompt Language v1.0
 Complete Technical Specification**
+![Remove background image (4)](https://github.com/user-attachments/assets/86af3703-c7d8-4831-a4a0-62d7d1ea76f4)
+
 
 ---
 
