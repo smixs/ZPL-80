@@ -1,8 +1,8 @@
 
-![zlp](https://github.com/user-attachments/assets/153447f5-af9e-4f63-b3f8-390a5ee3d84a)
+![Remove Background Image (5)](https://github.com/user-attachments/assets/0fab9da9-2d9c-414f-892b-c5e82b52eeeb)
 
-# **ZPL-80 – Zip Prompt Language v1.0
-Complete Technical Specification**
+# ZPL-80 – Zip Prompt Language v1.0
+**Complete Technical Specification**
 ---
 
 ### 1. Purpose and Design Goals
